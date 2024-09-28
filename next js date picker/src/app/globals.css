@@ -1,0 +1,9 @@
+.mb-2 {
+  margin-bottom: 0.5rem !important;
+}
+
+.react-datepicker__day--highlighted-custom {
+  background-color: #ff6600 !important;
+  color: white !important;
+  border-radius: 0.3rem !important;
+}
